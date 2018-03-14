@@ -1,0 +1,25 @@
+body {
+  font-family: 'Mukta Mahee', sans-serif;
+  text-align: center;
+}
+h1 {
+  color: #7e42bc
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 1%;
+    background-color: #fc97d7;
+
+}
+li {
+    display: inline;
+}
+a {
+  text-decoration: none;
+  margin: 5%;
+  color: #7528c1;
+}
+a:hover {
+  color: #38036d;
+}
