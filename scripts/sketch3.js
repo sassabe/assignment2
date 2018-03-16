@@ -62,7 +62,7 @@ function draw() {
 
     // Displays the image at half size at point
     rotate(-180);
-    image(img, -15, -25, height/2);
+    image(img, -15, -10, height/2);
     stroke (76, 177, 255);
 
   }
